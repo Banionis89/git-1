@@ -3,5 +3,6 @@ public class Main {
         System.out.println("first git");
         System.out.println("first change");
         System.out.println("6 change");
+        System.out.println("7 change");
     }
 }
