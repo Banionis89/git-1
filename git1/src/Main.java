@@ -4,6 +4,5 @@ public class Main {
         System.out.println("first change");
         System.out.println("6 change");
         System.out.println("7 change");
-        System.out.println("8 change");
     }
 }
